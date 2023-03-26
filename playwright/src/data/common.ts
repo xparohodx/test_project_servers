@@ -1,6 +1,6 @@
 // storing User auth data here because I cannot create new users for every test run on production environment
 export const UserAuthData = {
-    email: 'xparohodx@gmail.com',
+    email: 'xparohodx_ask_ev@yahoo.com',
     password: 'LongPassword1029'
 }
 
