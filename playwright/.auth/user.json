@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "rack.session",
+      "value": "c4e7ad843f1f9541d4e259d8e61ea6ee91eb156d8ac5174264a1b1ad1338cdb8",
+      "domain": "portal.servers.com",
+      "path": "/",
+      "expires": 1679847383,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
